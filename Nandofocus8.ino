@@ -6,7 +6,8 @@
 //  Focuser based in Arduino HW and Robofocus (open source) 
 //          serial protocol
 //
-//  Site: http://es.groups.yahoo.com/group/nandofocus_group/
+//  Site old: http://es.groups.yahoo.com/group/nandofocus_group/
+//  New Site: https://github.com/Nandorroloco/Nandofocus
 //
 //  License: http://creativecommons.org/licenses/by-sa/3.0/deed.es
 //
