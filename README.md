@@ -8,3 +8,5 @@ Content:
  "/Adapting" some telecopes with an adaptation of electromechanicals devices for nandofocus.
  
  Nandofocus Version 8 based in Arduino.
+ 
+ // 12-02-2022 new 8.1.3 version seeking speed is now MIDD (middle) because some drivers could lost steeps in FAST mode. 
