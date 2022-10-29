@@ -10,3 +10,4 @@ Content:
  Nandofocus Version 8 based in Arduino.
  
  // 12-02-2022 new 8.1.3 version seeking speed is now MIDD (middle) because some drivers could lost steeps in FAST mode. 
+ // 29-10-2022 new version 8.1.4 backslach compensation issue fixed for Kstars/Ekos/Indi driver. 
