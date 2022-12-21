@@ -48,7 +48,7 @@ static tinyTimeR tt;
 #define SLOW 40
 #define MSLW 20
 #define MIDD 10
-#define FAST 3
+#define FAST 5        // probar con valores como 3, 4, 5... hay motores que pierden pasos a máxima velocidad (por defecto 3)
 
 #define B_UP   0b00100000
 #define B_SUP  0b00010000
